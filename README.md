@@ -26,7 +26,7 @@ The dataset used in this project is sourced from Kaggle and consists of two CSV 
 
 1. **Clone the repository:**
     ```bash
-    git clone (https://github.com/sanika318/Sentiment-Analysis-of-Financial-News-Article.git)
+    git clone https://github.com/sanika318/Sentiment-Analysis-of-Financial-News-Article.git
     ```
 
 2. **Download the dataset:**
